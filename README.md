@@ -25,3 +25,9 @@ Structured notes, methodology practice, and lab documentation focused on OSCP-st
 
 ## Goal
 Build repeatable offensive methodology and practical competence through structured lab repetition and documentation.
+
+## Repository Structure
+
+- `metasploitable/` → host enumeration and exploitation notes
+- `dvwa/` → web application testing notes
+- `templates/` → reusable reporting and note templates
